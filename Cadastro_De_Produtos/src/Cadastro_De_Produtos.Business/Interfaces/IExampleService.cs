@@ -4,7 +4,7 @@ using Cadastro_De_Produtos.Business.Models;
 
 namespace Cadastro_De_Produtos.Business.Interfaces
 {
-    public interface Cadastro_De_Produtos : IDisposable
+    public interface IExampleService : IDisposable
     {
         Task<bool> Adicionar(Example exemple);
         Task<bool> Atualizar(Example exemple);

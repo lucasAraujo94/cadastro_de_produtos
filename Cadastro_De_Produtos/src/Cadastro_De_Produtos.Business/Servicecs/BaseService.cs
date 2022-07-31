@@ -1,45 +1,45 @@
-﻿using System;
+﻿using FluentValidation;
+using FluentValidation.Results;
+using System;
 using System.Collections.Generic;
 using System.Text;
-using System.Threading.Tasks;
 using Cadastro_De_Produtos.Business.Interfaces;
 using Cadastro_De_Produtos.Business.Models;
-using Cadastro_De_Produtos.Business.Models.Validations;
+using Cadastro_De_Produtos.Business.Notifications;
 
 namespace Cadastro_De_Produtos.Business.Servicecs
 {
-    public class Cadastro_De_Produtos : BaseService, Cadastro_De_Produtos
+    public abstract class BaseService
     {
+        private readonly INotificator _notificator;
 
+        public BaseService(INotificator notificator)
+        {
+            _notificator = notificator;
+        }
+
+        protected void Notify(ValidationResult validationResult)
+        {
+            foreach (var error in validationResult.Errors)
+            {
+                Notify(error.ErrorMessage);
+            }
+        }
+
+        protected void Notify(string mensagem)
+        {
+            _notificator.Handle(new Notification(mensagem));
+        }
+
+        protected bool ExecutarValidacao<TV, TE>(TV validation, TE entidade) where TV : AbstractValidator<TE> where TE : Entity
+        {
+            var validator = validation.Validate(entidade);
+
+            if (validator.IsValid) return true;
+
+            Notify(validator);
+
+            return false;
+        }
     }
-    private readonly Cadastro_De_Produtos _Cadastro_De_Produtos;
-    public ExampleService(ICadastro_De_Produtos exempleRepository, INotificator notificator, IUser user) : base(notificator)
-    {
-        _exempleRepository = exempleRepository;
-        _user = user;
-    }
-    public async Task<bool> Adicionar(Example exemple)
-    {
-        if (!ExecutarValidacao(new ExampleValidation(), exemple)) return false;
-
-        await _exempleRepository.Adicionar(exemple);
-        return true;
-    }
-
-    public async Task<bool> Atualizar(Example exemple)
-    {
-        if (!ExecutarValidacao(new ExampleValidation(), exemple)) return false;
-
-        await _exempleRepository.Atualizar(exemple);
-        return true;
-    }
-
-    public async Task<bool> Remover(Guid id)
-    {
-        await _exempleRepository.Remover(id);
-        return true;
-    }
-
-    public void Dispose()
-    {
-        _exempleRepository?.Dispose();
+}

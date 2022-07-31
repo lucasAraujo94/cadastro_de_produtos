@@ -8,12 +8,11 @@ using Cadastro_De_Produtos.Business.Models.Validations;
 
 namespace Cadastro_De_Produtos.Business.Servicecs
 {
-    public class Cadastro_De_Produtos : BaseService, Cadastro_De_Produtos
+    public class ExampleService : BaseService, IExampleService
     {
-
-    }
-        private readonly Cadastro_De_Produtos _Cadastro_De_Produtos;
-        public ExampleService(ICadastro_De_Produtos exempleRepository, INotificator notificator, IUser user) : base(notificator)
+        private readonly IExampleRepository _exempleRepository;
+        private readonly IUser _user;
+        public ExampleService(IExampleRepository exempleRepository, INotificator notificator, IUser user) : base(notificator)
         {
             _exempleRepository = exempleRepository;
             _user = user;
@@ -21,7 +20,7 @@ namespace Cadastro_De_Produtos.Business.Servicecs
         public async Task<bool> Adicionar(Example exemple)
         {
             if (!ExecutarValidacao(new ExampleValidation(), exemple)) return false;
-            
+
             await _exempleRepository.Adicionar(exemple);
             return true;
         }
@@ -35,7 +34,7 @@ namespace Cadastro_De_Produtos.Business.Servicecs
         }
 
         public async Task<bool> Remover(Guid id)
-        {            
+        {
             await _exempleRepository.Remover(id);
             return true;
         }

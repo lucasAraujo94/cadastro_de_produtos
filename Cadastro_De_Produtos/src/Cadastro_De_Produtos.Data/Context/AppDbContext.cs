@@ -23,3 +23,6 @@ namespace Cadastro_De_Produtos.Data.Context
 
             foreach (var relationship in builder.Model.GetEntityTypes().SelectMany(e => e.GetForeignKeys())) relationship.DeleteBehavior = DeleteBehavior.ClientSetNull;
             base.OnModelCreating(builder);
+        }
+    }
+}

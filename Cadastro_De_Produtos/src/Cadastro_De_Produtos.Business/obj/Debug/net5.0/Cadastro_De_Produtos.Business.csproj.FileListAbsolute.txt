@@ -1,4 +1,15 @@
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\bin\Debug\net5.0\Cadastro_De_Produtos.Business.deps.json
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\bin\Debug\net5.0\Cadastro_De_Produtos.Business.runtimeconfig.json
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\bin\Debug\net5.0\Cadastro_De_Produtos.Business.runtimeconfig.dev.json
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\bin\Debug\net5.0\Cadastro_De_Produtos.Business.dll
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\bin\Debug\net5.0\ref\Cadastro_De_Produtos.Business.dll
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\bin\Debug\net5.0\Cadastro_De_Produtos.Business.pdb
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\obj\Debug\net5.0\Cadastro_De_Produtos.Business.csproj.AssemblyReference.cache
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\obj\Debug\net5.0\Cadastro_De_Produtos.Business.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\obj\Debug\net5.0\Cadastro_De_Produtos.Business.AssemblyInfoInputs.cache
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\obj\Debug\net5.0\Cadastro_De_Produtos.Business.AssemblyInfo.cs
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\obj\Debug\net5.0\Cadastro_De_Produtos.Business.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\obj\Debug\net5.0\Cadastro_De_Produtos.Business.dll
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\obj\Debug\net5.0\ref\Cadastro_De_Produtos.Business.dll
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\obj\Debug\net5.0\Cadastro_De_Produtos.Business.pdb
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\obj\Debug\net5.0\Cadastro_De_Produtos.Business.genruntimeconfig.cache
