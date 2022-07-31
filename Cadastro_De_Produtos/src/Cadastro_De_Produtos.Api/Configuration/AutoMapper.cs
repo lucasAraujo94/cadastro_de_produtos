@@ -9,6 +9,7 @@ namespace Cadastro_De_Produtos.Api.Configuration
         public AutoMapper()
         {
             CreateMap<Example, ExampleDto>().ReverseMap();
+            CreateMap<Produtos, ProdutoDto>().ReverseMap();
         }
     }
 }

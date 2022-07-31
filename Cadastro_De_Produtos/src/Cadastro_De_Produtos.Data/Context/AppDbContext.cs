@@ -11,6 +11,7 @@ namespace Cadastro_De_Produtos.Data.Context
         }
 
         public DbSet<Example> Exemple { get; set; }
+        public DbSet<Produtos> Produtos { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

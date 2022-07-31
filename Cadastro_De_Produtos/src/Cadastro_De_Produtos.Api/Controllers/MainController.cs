@@ -12,6 +12,8 @@ namespace Cadastro_De_Produtos.Api.Controllers
     {
         private readonly INotificator _notificator;
         public readonly IUser AppUser;
+        private INotificator notificator;
+
         protected Guid UsuarioId { get; set; }
         protected bool UsuarioAutenticado { get; set; }
         public MainController(INotificator notificator, IUser appUser)
@@ -19,6 +21,12 @@ namespace Cadastro_De_Produtos.Api.Controllers
             _notificator = notificator;
             AppUser = appUser;
         }
+
+        protected MainController(INotificator notificator)
+        {
+            this.notificator = notificator;
+        }
+
         protected bool OperacaoValida()
         {
             return !_notificator.HasNotification();

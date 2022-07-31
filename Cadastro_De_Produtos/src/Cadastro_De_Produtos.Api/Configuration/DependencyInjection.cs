@@ -16,6 +16,9 @@ namespace Cadastro_De_Produtos.Api.Configuration
             services.AddScoped<AppDbContext>();
             services.AddScoped<IExampleRepository, ExampleRepository>();
             services.AddScoped<IExampleService, ExampleService>();
+
+            services.AddScoped<IProdutosRepository, ProdutosRepository>();
+            services.AddScoped<IProdutosService, ProdutosService>();
             
 
 
