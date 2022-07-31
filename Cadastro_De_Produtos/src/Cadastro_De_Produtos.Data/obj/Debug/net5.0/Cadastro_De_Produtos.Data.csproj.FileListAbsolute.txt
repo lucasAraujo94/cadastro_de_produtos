@@ -1,0 +1,4 @@
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Data\obj\Debug\net5.0\Cadastro_De_Produtos.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Data\obj\Debug\net5.0\Cadastro_De_Produtos.Data.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Data\obj\Debug\net5.0\Cadastro_De_Produtos.Data.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Data\obj\Debug\net5.0\Cadastro_De_Produtos.Data.csproj.CoreCompileInputs.cache

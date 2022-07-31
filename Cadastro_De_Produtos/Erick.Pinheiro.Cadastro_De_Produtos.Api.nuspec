@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Erick.Pinheiro.Cadastro_De_Produtos.Api</id>
+    <version>1.0.0</version>
+    <title>Cadastro_De_Produtos for Architecture</title>
+    <authors>erick_pinheiro</authors>
+    <owners>Erick Pinheiro</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/erickps8/Projeto-base.git</projectUrl>
+    <description>Instalador de cadastro_de_produtos  com arquitetura profissional Asp .Net Core 3.</description>
+    <summary>Instalador de cadastro_de_produtos Asp .Net Core 3.</summary>
+    <releaseNotes>Initial 1.0.0 release</releaseNotes>
+    <tags>cadastro_de_produtos dotnet webapi swagger</tags>
+  </metadata>
+</package>

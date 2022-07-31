@@ -1,0 +1,5 @@
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\obj\Debug\net5.0\Cadastro_De_Produtos.Identity.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\obj\Debug\net5.0\Cadastro_De_Produtos.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\obj\Debug\net5.0\Cadastro_De_Produtos.Identity.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\obj\Debug\net5.0\Cadastro_De_Produtos.Identity.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\obj\Debug\net5.0\Cadastro_De_Produtos.Identity.csproj.CoreCompileInputs.cache

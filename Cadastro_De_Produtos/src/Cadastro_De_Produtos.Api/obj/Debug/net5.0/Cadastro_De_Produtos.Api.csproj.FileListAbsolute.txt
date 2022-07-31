@@ -1,0 +1,6 @@
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\obj\Debug\net5.0\Cadastro_De_Produtos.Api.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\obj\Debug\net5.0\Cadastro_De_Produtos.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\obj\Debug\net5.0\Cadastro_De_Produtos.Api.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\obj\Debug\net5.0\Cadastro_De_Produtos.Api.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\obj\Debug\net5.0\Cadastro_De_Produtos.Api.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\obj\Debug\net5.0\Cadastro_De_Produtos.Api.MvcApplicationPartsAssemblyInfo.cache

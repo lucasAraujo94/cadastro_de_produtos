@@ -1,0 +1,10 @@
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\bin\Debug\netcoreapp3.1\Cadastro_De_Produtos.Business.deps.json
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\bin\Debug\netcoreapp3.1\Cadastro_De_Produtos.Business.dll
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\bin\Debug\netcoreapp3.1\Cadastro_De_Produtos.Business.pdb
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\obj\Debug\netcoreapp3.1\Cadastro_De_Produtos.Business.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\obj\Debug\netcoreapp3.1\Cadastro_De_Produtos.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\obj\Debug\netcoreapp3.1\Cadastro_De_Produtos.Business.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\obj\Debug\netcoreapp3.1\Cadastro_De_Produtos.Business.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\obj\Debug\netcoreapp3.1\Cadastro_De_Produtos.Business.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\obj\Debug\netcoreapp3.1\Cadastro_De_Produtos.Business.dll
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Business\obj\Debug\netcoreapp3.1\Cadastro_De_Produtos.Business.pdb
