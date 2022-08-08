@@ -12,7 +12,7 @@ namespace Cadastro_De_Produtos.Api.Controllers
     {
         private readonly INotificator _notificator;
         public readonly IUser AppUser;
-        private INotificator notificator;
+        private readonly INotificator notificator;
 
         protected Guid UsuarioId { get; set; }
         protected bool UsuarioAutenticado { get; set; }

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Cadastro_De_Produtos.Business.Interfaces
 {
-    public interface IProdutosRepository :IRepository<Produtos>
+    public interface IProdutosRepository :IPesquisar_Produto<Produtos>
     {
     }
 }

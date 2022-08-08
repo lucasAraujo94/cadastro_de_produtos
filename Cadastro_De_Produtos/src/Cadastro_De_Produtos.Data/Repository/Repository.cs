@@ -11,7 +11,7 @@ using Cadastro_De_Produtos.Data.Context;
 
 namespace Cadastro_De_Produtos.Data.Repository
 {
-    public class Repository<TEntity> : IRepository<TEntity> where TEntity : Entity, new()
+    public class Repository<TEntity> : IPesquisar_Produto<TEntity> where TEntity : Entity, new()
     {
         protected readonly AppDbContext Db;
         protected readonly DbSet<TEntity> DbSet;

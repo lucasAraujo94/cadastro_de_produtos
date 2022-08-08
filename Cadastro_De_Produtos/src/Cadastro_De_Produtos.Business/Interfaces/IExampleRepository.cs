@@ -5,7 +5,7 @@ using Cadastro_De_Produtos.Business.Models;
 
 namespace Cadastro_De_Produtos.Business.Interfaces
 {
-    public interface IExampleRepository : IRepository<Example>
+    public interface IExampleRepository : IPesquisar_Produto<Example>
     {
     }
 }

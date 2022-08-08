@@ -1,3 +1,9 @@
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\obj\Debug\net5.0\Cadastro_De_Produtos.Api.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\obj\Debug\net5.0\Cadastro_De_Produtos.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\obj\Debug\net5.0\Cadastro_De_Produtos.Api.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\obj\Debug\net5.0\Cadastro_De_Produtos.Api.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\obj\Debug\net5.0\Cadastro_De_Produtos.Api.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\obj\Debug\net5.0\Cadastro_De_Produtos.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\bin\Debug\net5.0\appsettings.json
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\bin\Debug\net5.0\Cadastro_De_Produtos.Api.exe
@@ -136,13 +142,6 @@ C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\bin\Debug\net5.0\Cadastro_De_Produtos.Business.pdb
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\bin\Debug\net5.0\Cadastro_De_Produtos.Data.pdb
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\bin\Debug\net5.0\Cadastro_De_Produtos.Identity.pdb
-C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\obj\Debug\net5.0\Cadastro_De_Produtos.Api.csproj.AssemblyReference.cache
-C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\obj\Debug\net5.0\Cadastro_De_Produtos.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\obj\Debug\net5.0\Cadastro_De_Produtos.Api.AssemblyInfoInputs.cache
-C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\obj\Debug\net5.0\Cadastro_De_Produtos.Api.AssemblyInfo.cs
-C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\obj\Debug\net5.0\Cadastro_De_Produtos.Api.csproj.CoreCompileInputs.cache
-C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\obj\Debug\net5.0\Cadastro_De_Produtos.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\obj\Debug\net5.0\Cadastro_De_Produtos.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\obj\Debug\net5.0\scopedcss\bundle\Cadastro_De_Produtos.Api.styles.css
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\obj\Debug\net5.0\staticwebassets\Cadastro_De_Produtos.Api.StaticWebAssets.Manifest.cache
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Api\obj\Debug\net5.0\Cadastro_De_Produtos.Api.RazorTargetAssemblyInfo.cache

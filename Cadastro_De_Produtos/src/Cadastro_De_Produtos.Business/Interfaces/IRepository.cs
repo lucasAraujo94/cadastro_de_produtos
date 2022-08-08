@@ -6,7 +6,7 @@ using Cadastro_De_Produtos.Business.Models;
 
 namespace Cadastro_De_Produtos.Business.Interfaces
 {
-    public interface IRepository<TEntity> : IDisposable where TEntity : Entity
+    public interface IPesquisar_Produto<TEntity> : IDisposable where TEntity : Entity
     {
         Task Adicionar(TEntity entity);
         Task<TEntity> ObterPorId(Guid id);

@@ -1,3 +1,8 @@
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\obj\Debug\net5.0\Cadastro_De_Produtos.Identity.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\obj\Debug\net5.0\Cadastro_De_Produtos.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\obj\Debug\net5.0\Cadastro_De_Produtos.Identity.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\obj\Debug\net5.0\Cadastro_De_Produtos.Identity.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\obj\Debug\net5.0\Cadastro_De_Produtos.Identity.csproj.CoreCompileInputs.cache
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\bin\Debug\net5.0\Cadastro_De_Produtos.Identity.deps.json
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\bin\Debug\net5.0\Cadastro_De_Produtos.Identity.runtimeconfig.json
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\bin\Debug\net5.0\Cadastro_De_Produtos.Identity.runtimeconfig.dev.json
@@ -6,11 +11,6 @@ C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\bin\Debug\net5.0\Cadastro_De_Produtos.Identity.pdb
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\bin\Debug\net5.0\Cadastro_De_Produtos.Business.dll
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\bin\Debug\net5.0\Cadastro_De_Produtos.Business.pdb
-C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\obj\Debug\net5.0\Cadastro_De_Produtos.Identity.csproj.AssemblyReference.cache
-C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\obj\Debug\net5.0\Cadastro_De_Produtos.Identity.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\obj\Debug\net5.0\Cadastro_De_Produtos.Identity.AssemblyInfoInputs.cache
-C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\obj\Debug\net5.0\Cadastro_De_Produtos.Identity.AssemblyInfo.cs
-C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\obj\Debug\net5.0\Cadastro_De_Produtos.Identity.csproj.CoreCompileInputs.cache
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\obj\Debug\net5.0\Cadastro_De_Produtos.Identity.csproj.CopyComplete
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\obj\Debug\net5.0\Cadastro_De_Produtos.Identity.dll
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Identity\obj\Debug\net5.0\ref\Cadastro_De_Produtos.Identity.dll
