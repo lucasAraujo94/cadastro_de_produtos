@@ -5,7 +5,6 @@ C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Data\obj\Debug\net5.0\Cadastro_De_Produtos.Data.csproj.CoreCompileInputs.cache
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Data\bin\Debug\net5.0\Cadastro_De_Produtos.Data.deps.json
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Data\bin\Debug\net5.0\Cadastro_De_Produtos.Data.dll
-C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Data\bin\Debug\net5.0\ref\Cadastro_De_Produtos.Data.dll
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Data\bin\Debug\net5.0\Cadastro_De_Produtos.Data.pdb
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Data\bin\Debug\net5.0\Cadastro_De_Produtos.Business.dll
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Data\bin\Debug\net5.0\Cadastro_De_Produtos.Business.pdb
@@ -13,3 +12,4 @@ C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Data\obj\Debug\net5.0\Cadastro_De_Produtos.Data.dll
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Data\obj\Debug\net5.0\ref\Cadastro_De_Produtos.Data.dll
 C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Data\obj\Debug\net5.0\Cadastro_De_Produtos.Data.pdb
+C:\Users\Usuário\Desktop\Cadastro\cadastro_de_produtos\Cadastro_De_Produtos\src\Cadastro_De_Produtos.Data\obj\Debug\net5.0\refint\Cadastro_De_Produtos.Data.dll

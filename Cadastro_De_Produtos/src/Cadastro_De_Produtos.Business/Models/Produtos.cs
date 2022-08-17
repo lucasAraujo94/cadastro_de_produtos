@@ -10,7 +10,7 @@ namespace Cadastro_De_Produtos.Business.Models
     {
         public string Nome { get ; set; }
         public string Medida  { get; set; }
-        public string Descriçao { get; set; }
+        public string Descricao { get; set; }
         public int Codigo { get; set; }
     }
 }
